@@ -144,7 +144,11 @@ Response
 
 ## 📸 Screenshots
 
+### 🔹 Home Page
+![Home Page](screenshots/home.png)
 
+### 🔹 Recommendation Results
+![Results Page](screenshots/results.png)
 
 ---
 
