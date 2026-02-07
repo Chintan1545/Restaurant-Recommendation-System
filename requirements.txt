@@ -1,10 +1,5 @@
-torch
-torchvision
 fastapi
 uvicorn
-python-multipart
-pillow
-jinja2
 streamlit
 requests
 scikit-learn
