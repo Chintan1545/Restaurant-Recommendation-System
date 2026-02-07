@@ -148,7 +148,7 @@ Response
 ![Home Page](Screenshot.png)
 
 ### 🔹 Recommendation Results
-![Results Page](screenshots/results.png)
+![Results Page](Screenshot1.png)
 
 ---
 
