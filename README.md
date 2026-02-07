@@ -155,11 +155,11 @@ Response
 
 ## 📈 Future Improvements
 
-🔹 Multi-select cuisine
-🔹 User login system
-🔹 Cloud deployment
-🔹 Model optimization
-🔹 Mobile-friendly UI
+- 🔹 Multi-select cuisine
+- 🔹 User login system
+- 🔹 Cloud deployment
+- 🔹 Model optimization
+- 🔹 Mobile-friendly UI
 
 ---
 
